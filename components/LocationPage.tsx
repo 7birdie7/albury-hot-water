@@ -19,7 +19,7 @@ export default function LocationPage({
     provider: {
       "@type": "Organization",
       name: "Albury Hot Water",
-      url: "https://albury-hot-water.openai.site",
+      url: "https://alburyhotwater.com",
     },
   };
   return (

@@ -4,7 +4,7 @@ import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://albury-hot-water.openai.site"),
+  metadataBase: new URL("https://alburyhotwater.com"),
   title: {
     default: "Albury Hot Water | Installation, Replacement & Repairs",
     template: "%s | Albury Hot Water",
@@ -43,7 +43,7 @@ const websiteSchema = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   name: "Albury Hot Water",
-  url: "https://albury-hot-water.openai.site",
+  url: "https://alburyhotwater.com",
   description:
     "Hot-water installation, replacement, repair and system information for Albury, Wodonga and surrounding communities.",
   inLanguage: "en-AU",
@@ -52,7 +52,7 @@ const organisationSchema = {
   "@context": "https://schema.org",
   "@type": "Organization",
   name: "Albury Hot Water",
-  url: "https://albury-hot-water.openai.site",
+  url: "https://alburyhotwater.com",
   email: "info@alburyhotwater.com",
   telephone: "+61 490 008 212",
   areaServed: [

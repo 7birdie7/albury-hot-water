@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 export default function sitemap(): MetadataRoute.Sitemap {
-  const b = "https://albury-hot-water.openai.site";
+  const b = "https://alburyhotwater.com";
   const p = [
     "",
     "/services",

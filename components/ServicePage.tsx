@@ -25,7 +25,7 @@ export default function ServicePage(p: Props) {
     provider: {
       "@type": "Organization",
       name: "Albury Hot Water",
-      url: "https://albury-hot-water.openai.site",
+      url: "https://alburyhotwater.com",
     },
   };
   const faqSchema = {
