@@ -1,0 +1,3 @@
+import type {Metadata} from "next"; import LocationPage from "@/components/LocationPage";
+export const metadata:Metadata={title:"Hot Water Albury | Installation, Replacement & Repairs",description:"Hot-water system information and enquiries for Albury and nearby NSW communities.",alternates:{canonical:"/locations/albury"}};
+export default function Page(){return <LocationPage city="Albury" intro="Hot-water installation, replacement and repair enquiries for Albury homes, rentals and suitable commercial properties." nearby={["North Albury","East Albury","West Albury","South Albury","Lavington","Glenroy","Thurgoona","Springdale Heights","Jindera"]}/>}

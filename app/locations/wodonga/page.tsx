@@ -1,0 +1,3 @@
+import type {Metadata} from "next"; import LocationPage from "@/components/LocationPage";
+export const metadata:Metadata={title:"Hot Water Wodonga | Installation, Replacement & Repairs",description:"Hot-water system information and enquiries for Wodonga and nearby Victorian communities.",alternates:{canonical:"/locations/wodonga"}};
+export default function Page(){return <LocationPage city="Wodonga" intro="Hot-water installation, replacement and repair enquiries for Wodonga homes, rentals and suitable commercial properties." nearby={["West Wodonga","East Wodonga","Bandiana","Baranduda","Leneva","Killara","Bonegilla","Tangambalanga","Yackandandah"]}/>}
