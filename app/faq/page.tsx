@@ -11,43 +11,43 @@ export const metadata: Metadata = {
 const faqs = [
   [
     "What information should I include in a hot-water enquiry?",
-    "Include your suburb, the current system type if known, approximate system age, household size and what has changed. Photographs of the unit, label and any visible leak can also help the responding provider understand the situation.",
+    "Include the property suburb, whether it is a home, rental or business premises, the current system type if known, its approximate age and the number of people normally using hot water. Describe exactly what has changed—for example, no hot water, slow recovery, fluctuating temperature, unusual sounds, discolouration or visible water near the unit. Safe photographs of the equipment label, the full installation area and any visible leak can help a provider understand the likely scope before attending. Also mention access restrictions, tenants, pets and preferred contact times. Never remove a cover or touch wet electrical equipment simply to obtain more information.",
   ],
   [
     "Should a leaking hot-water system be repaired or replaced?",
-    "That depends on the source of the leak, the unit’s condition and the likely value of a repair. A leaking connection or valve may be repairable; a leaking or badly corroded storage tank often makes replacement more likely. An onsite assessment is needed before deciding.",
+    "That depends first on where the water is coming from. A loose connection, faulty valve or accessible piece of pipework may be repairable, while water escaping from a corroded storage cylinder often makes replacement more likely. The system’s age, previous faults, general condition, repair cost and ability to meet current household demand should all be considered together. Ask the provider to identify the source of the leak and explain what the proposed repair is expected to achieve. Significant flooding, water near electrical components or very hot discharge requires prompt professional attention; keep people away and do not dismantle the system yourself.",
   ],
   [
     "Which hot-water system is best for an Albury–Wodonga home?",
-    "There is no single best system for every property. Household demand, existing energy connections, available space, winter conditions, budget and installation requirements all matter.",
+    "There is no single best technology for every Albury–Wodonga property. A useful comparison begins with peak household demand, the existing electricity or gas supply, available outdoor or roof space, access, budget and whether rooftop solar is already installed. Local winter conditions can make recovery, frost management and cold-weather performance particularly important for some systems. Electric storage may provide a straightforward replacement path, while a heat pump may appeal to households prioritising lower electricity use. Gas, continuous-flow and solar systems each have different site requirements. Compare the complete installed scope, expected use and warranty—not only the appliance price or advertised efficiency figure.",
   ],
   [
     "Can heat-pump hot water work during cold Albury winters?",
-    "Heat pumps can operate in cool conditions, but model selection, placement, airflow, frost management and recovery performance matter. Ask how the proposed model performs at local winter temperatures.",
+    "Many modern heat-pump systems are designed to operate in cool conditions, but their performance is not identical. Ask for model-specific operating-temperature information, recovery data and an explanation of when the electric boost may be used. Correct sizing matters because a household that draws heavily on the tank may notice slow recovery if the chosen system is marginal for its needs. Placement also affects airflow, drainage, frost management, service access and operating sound. A suitable recommendation should explain how the proposed model and tank capacity match local winter conditions and the household’s peak use rather than relying on a general claim that all heat pumps perform the same way.",
   ],
   [
     "Are hot-water rebates available?",
-    "Rebates and certificate-based discounts may be available for some eligible installations, but programs, products and eligibility rules can change. Confirm current requirements through the relevant NSW or Victorian government program and with an accredited provider.",
+    "Rebates or certificate-based discounts may be available for some eligible heat-pump or solar hot-water installations, but they are not automatic or identical for every property. Albury addresses fall under NSW arrangements, while Wodonga addresses fall under Victorian programs, and the rules, approved products and provider requirements can differ. Ask for the normal price, the incentive being applied and the final payable amount to be shown separately in writing. Confirm eligibility through the current government program and an appropriately accredited provider before relying on the discount. A system should still suit the household’s demand, climate, placement and budget; a large advertised rebate does not by itself make a product the right choice.",
   ],
   [
     "How long does hot-water replacement take?",
-    "Timing varies with system type, access, existing connections and whether electrical, gas, roof or plumbing alterations are required. Ask the provider to explain the proposed work and expected timing in the written quote.",
+    "A straightforward like-for-like replacement may be completed more quickly than a change of technology, but no single timeframe applies to every property. Timing can be affected by equipment availability, site access, disconnection and removal, changes to pipework or valves, electrical or gas work, roof work, drainage, supports and the need for more than one licensed trade. Ask whether the quoted timeframe includes delivery, removal of the old unit, installation, commissioning and any required paperwork. If the property currently has no hot water, explain this clearly when enquiring, but confirm actual attendance and completion timing directly rather than relying on an unverified same-day promise.",
   ],
   [
     "What should a hot-water quote include?",
-    "Look for the proposed system and capacity, removal of the old unit, valves and pipework, electrical or gas work, access costs, commissioning, disposal, warranties and any exclusions.",
+    "A useful written quote should identify the exact make, model and capacity, the proposed location and why the system suits the property’s expected demand. It should state whether disconnection, removal and disposal of the old unit are included, together with valves, drainage, pipework, electrical or gas work, roof work, bases, supports and access costs. Look for commissioning, customer instructions, product and workmanship warranties, payment terms and clear exclusions. If a rebate or certificate discount is included, ask for it to be itemised. Comparing complete scopes is more reliable than comparing headline equipment prices, because omitted installation work can substantially change the final cost.",
   ],
   [
     "Do you accept enquiries from Wodonga and nearby communities?",
-    "Yes. Enquiries are welcomed from Albury, Wodonga and surrounding communities. Actual travel coverage and appointment availability should be confirmed with the responding service provider.",
+    "Yes. Enquiries are welcomed from Albury, Wodonga, Lavington, Thurgoona, North Albury, West Wodonga, Baranduda, Jindera and nearby border-region communities. Include the exact suburb or locality because travel, appointment availability and the practical service radius can vary between providers. Regional or semi-rural properties should also mention access conditions, gate instructions, tank position and whether the site uses unusual power, water or gas arrangements. The website provides a focused local enquiry point, but actual travel coverage, timing and any call-out charge should be confirmed directly with the provider before an appointment is arranged.",
   ],
   [
     "What warning signs suggest a hot-water system needs attention?",
-    "Common warning signs include water running out sooner, fluctuating temperature, visible leaks, rust-coloured water, unusual sounds, repeated resets or rising energy use. Gas smells, smoke, sparking or significant flooding require urgent professional attention.",
+    "Changes worth investigating include hot water running out sooner than usual, slow recovery, fluctuating temperature, repeated loss of heating, visible leaks, corrosion, rust-coloured water, unusual rumbling or popping sounds and unexplained increases in energy use. These signs do not all mean the complete system must be replaced—a valve, thermostat, element, burner or connection may sometimes be repairable—but they do justify proper assessment. Record when the problem occurs and which outlets are affected. Gas smells, smoke, sparking, exposed wiring, water around electrical equipment or significant flooding are safety issues: keep clear and contact the appropriate emergency or licensed service rather than continuing normal troubleshooting.",
   ],
   [
     "Can I request a quote without choosing a system first?",
-    "Yes. Describe the property, household demand, current system and the outcome you need. A useful discussion should help narrow the options before you commit to a particular system.",
+    "Yes. You do not need to select a technology, brand or tank size before making an enquiry. Describe the property, household size, current system, available energy connections, hot-water pattern and the outcome that matters most—such as reliable recovery, lower running costs, quiet operation, limited space or a manageable upfront price. Mention rooftop solar and any planned household changes. A useful provider should use those details to narrow the practical options and explain the trade-offs. Ask why a particular model and capacity are being recommended, what installation changes are required and what the complete written price includes before committing to the work.",
   ],
 ];
 
