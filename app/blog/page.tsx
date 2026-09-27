@@ -24,7 +24,7 @@ export default function Blog() {
         <p>The Albury Hot Water advice library is designed around the decisions people make before a repair, replacement or efficiency upgrade. It explains safe first observations, common warning signs, system differences, quotation details and the local factors worth raising with a provider.</p>
         <p>Each article gives a direct starting answer and then adds the practical detail needed for a more useful enquiry. The information is educational rather than diagnostic: faults involving electricity, gas, pressure, very hot water or leaking equipment require appropriately licensed assistance.</p>
       </section>
-      <section className="section"><div className="blog-grid">{posts.map(([t,h,d,img]) => <article className="blog-card" key={h}><img src={img} alt="" /><div><p className="eyebrow">Advice</p><h2>{t}</h2><p>{d}</p><Link className="text-link" href={h}>Read article</Link></div></article>)}</div></section>
+      <section className="section"><div className="blog-grid">{posts.map(([t,h,d,img]) => <Link className="blog-card card-link" href={h} key={h}><img src={img} alt="" /><div><p className="eyebrow">Advice</p><h2>{t}</h2><p>{d}</p><span className="text-link">Read article</span></div></Link>)}</div></section>
 
       <section className="content-section"><p className="eyebrow">Where to begin</p><h2>Repair problem, planned replacement or efficiency upgrade?</h2>
         <h3>If the water is unexpectedly cold</h3><p>Start with the no-hot-water checklist. Note whether every outlet is affected, what the system is doing differently and whether there is water, noise, discolouration, smoke, sparking or a gas smell. Do not dismantle the unit.</p>
