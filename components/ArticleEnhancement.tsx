@@ -1,3 +1,4 @@
+// Expanded local SEO/AEO supporting content for individual advice articles.
 type Kind = "no-hot-water" | "heat-pump" | "repair-replace" | "rebates" | "best-system" | "warning-signs";
 
 export default function ArticleEnhancement({ kind }: { kind: Kind }) {
