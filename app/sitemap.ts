@@ -25,7 +25,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ];
   return p.map((x) => ({
     url: b + x,
-    lastModified: new Date(),
+    lastModified: new Date("2026-09-27"),
     changeFrequency:
       x.startsWith("/blog") || x.startsWith("/guides") ? "monthly" : "weekly",
     priority: x === "" ? 1 : x === "/contact" ? 0.9 : 0.8,
