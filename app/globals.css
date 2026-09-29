@@ -586,6 +586,18 @@ img {
 .faq-list details p {
   color: #637681;
 }
+.faq-area-note {
+  padding: 1.5rem 0 0.2rem;
+}
+.faq-area-note h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 800;
+}
+.faq-area-note p {
+  margin: 0;
+  color: #637681;
+}
 .site-footer {
   background: #0b202d;
   color: #d7e0e4;
