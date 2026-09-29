@@ -250,7 +250,7 @@ export default function Home() {
             </p>
           </details>
           <details>
-            <summary>Can I enquire from Wodonga as well as Albury?</summary>
+            <summary>Can I enquire about both Albury and Wodonga?</summary>
             <p>
               Yes. Enquiries are welcomed from Albury, Wodonga and surrounding
               areas. Actual travel coverage should always be confirmed when
