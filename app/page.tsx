@@ -250,14 +250,6 @@ export default function Home() {
             </p>
           </details>
           <details>
-            <summary>Can I enquire about both Albury and Wodonga?</summary>
-            <p>
-              Yes. Enquiries are welcomed from Albury, Wodonga and surrounding
-              areas. Actual travel coverage should always be confirmed when
-              service arrangements are discussed.
-            </p>
-          </details>
-          <details>
             <summary>
               What details should I include with a quote request?
             </summary>
@@ -267,6 +259,10 @@ export default function Home() {
               considerations and photographs where useful.
             </p>
           </details>
+          <div className="faq-area-note">
+            <h3>Enquiries from Albury and Wodonga Welcome</h3>
+            <p>Actual travel coverage should always be confirmed when service arrangements are discussed.</p>
+          </div>
         </div>
       </section>
     </main>
